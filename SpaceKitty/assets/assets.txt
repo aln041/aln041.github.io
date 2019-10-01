@@ -1,0 +1,17 @@
+d:assets:0:application/unknown
+i:background.png:7341:image/png
+t:kitty.atlas:3793:application/unknown
+i:kitty.png:6219:image/png
+a:meow.mp3:42840:audio/mpeg
+a:sfx.ogg:7728:audio/ogg
+i:startButton.png:594:image/png
+i:ufo_down.png:1620:image/png
+i:ufo_up.png:1614:image/png
+t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
+t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:6084:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/default.vertex.glsl:9441:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.fragment.glsl:904:application/unknown
+t:com/badlogic/gdx/graphics/g3d/shaders/depth.vertex.glsl:3056:application/unknown
+t:com/badlogic/gdx/utils/arial-15.fnt:21743:application/unknown
+i:com/badlogic/gdx/utils/arial-15.png:21814:image/png
